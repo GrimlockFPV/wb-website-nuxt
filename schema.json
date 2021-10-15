@@ -1,0 +1,140 @@
+{
+  "basics": {
+    "name": "Wayne Brenckle",
+    "label": "Technology Marketing",
+    "picture": "",
+    "email": "waynebrenckle@gmail.com",
+    "phone": "(408) 505-4000",
+    "website": "http://waynebrenckle.com",
+    "summary": "I am an experienced tech industry marketing professional that has worked in the Bay Area since 2003.  I have a proven track record of clearly -- defining, communicating and co-ordinating strategies for market success at all stages of product and company development.  I also have a strong background in product design from start of my career and through my own curiosity and personal projects I know enough about software and programmming to be dangerous.",
+    "location": {
+      "address": "5894 Paddon Circle",
+      "postalCode": "CA 95123",
+      "city": "San Jose",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "wbrenckle",
+        "url": "https://twitter.com/wbrenckle"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "waynebrenckle",
+        "url": "https://linkedin.com/waynebrenckle"
+      },
+      {
+        "network": "Github",
+        "username": "GrimlockFPV",
+        "url": "https://github.com/grimlockfpv"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "5th Quarter Sports Bar and Grill",
+      "position": "Owner",
+      "website": "http://5thquartersj.com",
+      "startDate": "2018-03-01",
+      "summary": "Took a break from tech to buy a restaurant / bar with my fiance. Not a lot of skill set carry-over between restaurant and technology businesses. What they do have in common -- personal relationship development is fundamental for success."
+    },
+    {
+      "company": "Micron Technology",
+      "position": "Strategic Marketing",
+      "website": "http://micron.com",
+      "startDate": "2014-06-01",
+      "summary": "Owned long term strategy for the Mobile Business Unit, exploring emerging memory and storage technologies, developing business cases for ivestment/inclusion to the roadmap.  Product manager for 3D Cross Point business in portables, primarily laptop."
+    },
+    {
+      "company": "NVIDIA",
+      "position": "Technical Marketing",
+      "website": "http://nvidia.com",
+      "startDate": "2011-01-01",
+      "summary": "Seduced by the dark side, began marketing career with newly created Tegra Business Unit.  Run like a start-up, loved freedom to contribute afforded by theoretical revenue projections and high-stakes of the larger company growth dependent on our success.  Most proud of managing vast landscape of partners where the tracking metric was mutual success."
+    },
+    {
+      "company": "NVIDIA",
+      "position": "Lead System Designer",
+      "website": "http://nvidia.com",
+      "startDate": "2003-01-01",
+      "summary": "Foot in the door of tech industry was a System Engineering internship where I created automation software for lab qualification. Accepted full-time position as a lead designer after graduation, first in desktop then in laptop graphics.  Continued love of hardware and software design finds it's home in virtually all of my hobbies and personal projects."
+    }
+  ],
+  "education": [
+    {
+      "institution": "California State Polytechnic University - SLO",
+      "area": "Electrical Engineering",
+      "studyType": "Bachelor",
+      "startDate": "1998-09-01",
+      "endDate": "2002-12-01",
+      "gpa": "3.3",
+      "courses": [
+        "Digital, Mixed Signal, High Speed, VLSI - Design and Programming"
+      ]
+    },
+    {
+      "institution": "International School of Brussels",
+      "area": "High School",
+      "studyType": "Diploma",
+      "startDate": "1990-01-01",
+      "endDate": "1998-06-01",
+      "gpa": "4.2",
+      "courses": [
+        "IB/AP Math, Science, Literature and History"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Marketing",
+      "level": 6,
+      "keywords": [
+        "Cross Functional Teams",
+        "Product Management/Marketing",
+        "Executive Presentation",
+        "Market Forecast/Model"
+      ]
+    },
+    {
+      "name": "Design",
+      "level": 5,
+      "keywords": [
+        "Cadence/Allegro",
+        "KiCad",
+        "FreeCAD",
+        "Blender"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": 4,
+      "keywords": [
+        "C++/Python",
+        "Javascript/VueJS",
+        "HTML5/CSS3/Sass"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Marketing",
+      "keywords": [
+        "I love taking a great new idea, whether it be hardware or software, and figuring out how it can help and/or bring joy to people's lives.  Of course to do that it has to have market sustainabilty which starts with defining a use case and then doing the research to determine the market size potential.  From there, if possible, I enjoy any opportunity to guide the end result of a lot of people's hard work through its entire lifecycle from product launch through end of life."
+      ]
+    },
+    {
+      "name": "Embedded Design",
+      "keywords": [
+        "In my spare time at home I really enjoy tinkering with or fully designing new projects for myself and with my kids.  A love of drones and 3D printing has led me to designing systems around microcontrollers and microprocessors along with various sensor, camera and motor peripherals.  3D printing in particular has given me experience in an entirely new arena of mechanical and CAD design that I find fascinating."
+      ]
+    },
+    {
+      "name": "Software",
+      "keywords": [
+        "From my early days of designing qualification software to now coding my own flight controller for FPV drones or tweaking 3D printer firmware, I have always enjoyed the thrill of solving problems through coding, and been keenly aware that a great piece of hardware is only as good as the software that runs it.  Lately, the open source revolution and being able to dig in and study complex software systems has exponetially expanded my knowledge base and enabled me to maximize the potential of anything I am working on."
+      ]
+    } 
+  ]
+}

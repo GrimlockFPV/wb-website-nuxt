@@ -1,0 +1,29 @@
+<template>
+  <v-app dark>
+    <CoreNavDrawer />
+    <CoreToolbar />
+    <v-main>
+        <v-container fluid>
+          <Nuxt />
+        </v-container>
+    </v-main>
+    
+    <v-footer
+      :absolute="!fixed"
+      app
+    >
+      <span>&copy; {{ new Date().getFullYear() }}</span>
+    </v-footer>
+  </v-app>
+</template>
+
+<script>
+export default {
+  data () {
+    return {
+      fixed: false,
+      
+    }
+  }
+}
+</script>
